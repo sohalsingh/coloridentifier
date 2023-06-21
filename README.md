@@ -24,9 +24,9 @@ This Python script uses OpenCV to perform real-time color identification based o
 
 2. Run the script:
 
-   ```
+   ``````
    python coloridentifier.py
-   ```
+   ``````
 
 3. A window will open showing the camera feed.
 
